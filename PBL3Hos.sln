@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBL3Hos", "PBL3Hos\PBL3Hos.csproj", "{B6990312-FA5D-437F-8C20-A88437503BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6990312-FA5D-437F-8C20-A88437503BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6990312-FA5D-437F-8C20-A88437503BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6990312-FA5D-437F-8C20-A88437503BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6990312-FA5D-437F-8C20-A88437503BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF06006-5BF6-4089-A832-192B19D47FEC}
+	EndGlobalSection
+EndGlobal
